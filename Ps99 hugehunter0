@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/disso00/ps99script/refs/heads/main/ps99script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/disso00/ps99-huge-hunter/refs/heads/main/Test"))()
