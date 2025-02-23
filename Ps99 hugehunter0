@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/disso00/Test-for-me/refs/heads/main/Test"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/disso00/ps99-huge-hunter/refs/heads/main/Test"))()
